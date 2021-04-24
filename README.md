@@ -8,7 +8,7 @@ Analyze the temperature data for the months of June and December in Oahu, in ord
 ## Results:
 As shown on the below tables, we notice the following:
  - There is a only 2 degree difference in the max temparature between June and December. 
- - The average temperature is 3 degrees warmer in June, which is the beginnign of Summer.
+ - The average temperature is 3 degrees warmer in June, which would be expected since it is the beginning of Summer.
  - The biggest difference can be found on the minimum temperature between the two months with 8 degrees of variance. 
 ### June Results:
 
